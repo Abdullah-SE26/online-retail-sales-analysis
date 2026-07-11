@@ -20,6 +20,19 @@ Using Microsoft Excel, the raw transactional dataset was transformed into an int
 
 The dashboard was built entirely using **Excel PivotTables, PivotCharts, KPI Cards, and Slicers**, demonstrating practical business intelligence techniques without external tools.
 
+Due to GitHub's file size limitations, the complete Excel project workbook is hosted on Google Drive.
+
+The workbook includes:
+
+- Raw Dataset
+- Data Cleaning & Preparation
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- PivotTables & PivotCharts
+- Interactive Dashboard
+
+👉 **[Download the Complete Excel Project](https://docs.google.com/spreadsheets/d/1BbIPuN9Y-8pxzOo9h6JBP-8uFrTTRKlt/edit?usp=drive_link&ouid=110621858558555394130&rtpof=true&sd=true)**
+
 ---
 
 # 🎯 Business Objectives
