@@ -366,7 +366,7 @@ Online-Retail-Sales-Dashboard
 
 > **Dashboard Preview**
 
-*(Insert your dashboard screenshot here once exported.)*
+![Online Retail Dashboard](images/Screenshot 2026-07-11 210202.png)
 
 ---
 
